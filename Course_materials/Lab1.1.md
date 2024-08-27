@@ -26,7 +26,7 @@ A portion of the below will need to be completed outside of lab time.
     1.  Install Anaconda: https://www.anaconda.com/download
     3.	Go through the "getting started" resource for Anaconda https://freelearning.anaconda.cloud/get-started-with-anaconda
     4.	Get through "conda workflow"
-    5.	When the whole class has this installed we will go over some basic conda commands together and making a new evironment 
+    5.	When the whole class has this installed we will go over some basic conda commands together and making a new evironment. See slack and ask another student if you missed this.
 
 2.	In datacamp, complete your first assignment: Introduction to Python, Ch 1 “Python Basics”
 3.	Open ipython/QT console and run the code examples in the last exercise in the datacamp “Introduction to Python” first chapter. Note that the ipython console is what the bottom datacamp interactive window uses.
