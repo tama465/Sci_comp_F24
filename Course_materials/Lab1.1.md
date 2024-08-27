@@ -22,7 +22,7 @@ Intro to slack, github, anaconda and datacamp
 
 A portion of the below will need to be completed outside of lab time.
 
-1.	Get Anaconda, the python interface, installed on your computer
+4.	Get Anaconda, the python interface, installed on your computer
     1.  Install Anaconda: https://www.anaconda.com/download
     3.	Go through the "getting started" resource for Anaconda https://freelearning.anaconda.cloud/get-started-with-anaconda
     4.	Get through "conda workflow"
