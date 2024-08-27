@@ -9,8 +9,7 @@ Introductions
 -	Name, family, where you are from and where you live now
 -	Major/program, year 
 -	Computing and data analysis experience: what software or computing environments you have used, mathematical and statistical training, any data analysis experience
--	Available computational resources: what computer resources do you have access to, what is your internet situation and who do you have to share it with
--	Experience with online learning, what has worked well and what didn’t work, suggestions for how to organize the class and grading policies
+-	Available computational resources: what computer resources do you have access to, any internet access issues at home
 
 Go over syllabus in detail
 Intro to slack, github, anaconda and datacamp
