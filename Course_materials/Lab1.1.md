@@ -32,6 +32,6 @@ A portion of the below will need to be completed outside of lab time.
 3.	Open ipython/QT console and run the code examples in the last exercise in the datacamp “Introduction to Python” first chapter. Note that the ipython console is what the bottom datacamp interactive window uses.
     1.	Enter the same code examples again both in Jupyter Lab and Jupyter Notebook. Make sure you know how to execute code in each of these interfaces.
     2.	Play around with these different coding interfaces and practicing some of the code you learned in datacamp
-6.	Turn in your work on Moodle submit screenshots of:
+6.	Turn in your work on Moodle. Submit screenshots of:
     1.	Your completed chapter on datacamp (including your score).
     2.	Your work on the ipython, jupyter notebook and jupyter lab interfaces
