@@ -28,8 +28,8 @@ A portion of the below will need to be completed outside of lab time.
     5.	When the whole class has this installed we will go over some basic conda commands together and making a new evironment 
 
 2.	In datacamp, complete your first assignment: Introduction to Python, Ch 1 “Python Basics”
-3.	Open ipython/QT console and run the four code examples in the last exercise in the datacamp “Introduction to Python” first chapter we did on Monday (“Can Python handle everything?”). Note that the ipython console is what the bottom datacamp interactive window uses.
-    1.	Enter the same four code examples again both in Jupyter Lab and Jupyter Notebook. Make sure you know how to execute code in each of these interfaces.
+3.	Open ipython/QT console and run the code examples in the last exercise in the datacamp “Introduction to Python” first chapter we did on Monday (“Can Python handle everything?”). Note that the ipython console is what the bottom datacamp interactive window uses.
+    1.	Enter the same code examples again both in Jupyter Lab and Jupyter Notebook. Make sure you know how to execute code in each of these interfaces.
     2.	Play around with these different coding interfaces and practicing some of the code you learned in datacamp
 6.	Turn in your work on Moodle submit screenshots of:
     1.	Your completed chapter on datacamp (including your score).
