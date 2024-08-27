@@ -14,7 +14,7 @@ Introductions
 Go over syllabus in detail
 Intro to slack, github, anaconda and datacamp
 
-## Lab 1.1 (Due Tuesday by midnight):
+## Lab 1.1 (Due Wednesday by midnight):
 1.	Join the class slack (https://join.slack.com/t/scicompf24/shared_invite/zt-2oxfl93z7-926B7Jv6w7eX8OMAjvArcw) and introduce yourself on the #introdcutions channel.
 1.	Sign up for a github account. Choose your github username wisely. Send Dr. H your github username over slack so you can be added to our course github channel (https://github.com/chsharrison/Sci_comp_F24/)
 1.	Join the class datacamp site: https://www.datacamp.com/groups/shared_links/58a2d9614aa92933a0f0602d1ac744ba902ca767a8094e19a0e95e7f63ed74e4. Navigate to the assignments page.
@@ -34,4 +34,4 @@ A portion of the below will need to be completed outside of lab time.
     2.	Play around with these different coding interfaces and practicing some of the code you learned in datacamp
 6.	Turn in your work on Moodle submit screenshots of:
     1.	Your completed chapter on datacamp (including your score).
-    2.	Your work on the ipython, jupyter notebook and spyder interfaces
+    2.	Your work on the ipython, jupyter notebook and jupyter lab interfaces
