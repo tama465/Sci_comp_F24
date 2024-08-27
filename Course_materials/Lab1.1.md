@@ -12,6 +12,7 @@ Introductions
 -	Available computational resources: what computer resources do you have access to, any internet access issues at home
 
 Go over syllabus in detail
+
 Intro to slack, github, anaconda and datacamp
 
 ## Lab 1.1 (Due Wednesday by midnight):
